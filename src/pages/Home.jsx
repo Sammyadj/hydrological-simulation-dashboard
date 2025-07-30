@@ -1,4 +1,5 @@
 import { useState } from "react";
+import MapOverlay from "../components/MapOverlay";
 import InputForm from "../components/InputForm";
 import ResultCard from "../components/ResultCard";
 import { calculateRunoff } from "../services/api";
@@ -26,6 +27,9 @@ const Home = () => {
         </p>
         <InputForm onSubmit={handleFormSubmit} />
         {result && <ResultCard result={result} />}
+        <div className="mt-6">
+          <MapOverlay />
+        </div>
       </div>
     </div>
   );
