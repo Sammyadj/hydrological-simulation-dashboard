@@ -1,6 +1,6 @@
 # 🌧️ Hydrological Simulation Dashboard
 
-A web-based tool that simulates surface runoff based on rainfall, land use, and soil type using the SCS-Curve Number (CN) method. Designed for urban planners, civil engineers, environmental scientists, and educators who need a fast, interactive way to visualize flood risk and surface runoff.
+A web-based tool that simulates surface runoff based on rainfall, land use, and soil type using the SCS-Curve Number (CN) method. Designed for urban planners, civil engineers, environmental scientists, and educators who need a fast, interactive way to visualise flood risk and surface runoff.
 
 ---
 
