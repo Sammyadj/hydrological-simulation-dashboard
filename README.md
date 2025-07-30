@@ -33,7 +33,7 @@ This tool is useful for:
 
 ✅ Input panel for rainfall depth, area, land use, and soil type  
 ✅ Calculation of surface runoff using the **SCS-Curve Number method**  
-✅ Dynamic charts for visualizing runoff volume and water balance  
+✅ Dynamic charts for visualising runoff volume and water balance  
 ✅ Optional GIS-style map overlay with Leaflet.js  
 ✅ Fully responsive frontend UI  
 ✅ REST API backend for simulation logic
